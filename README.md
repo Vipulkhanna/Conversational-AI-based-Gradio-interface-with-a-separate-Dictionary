@@ -20,6 +20,8 @@ A conversational AI assistant for **FlightAI**, powered by [Groq](https://groq.c
 3. If the model determines a ticket price is needed, it triggers the `get_ticket_price` tool.
 4. The tool result is sent back to the model, which formulates a final natural-language response.
 
+<img width="1372" height="712" alt="image" src="https://github.com/user-attachments/assets/534a6915-7fd5-4c72-9605-dc504489158f" />
+
 **Supported cities and prices:**
 
 | City | Price |
@@ -58,10 +60,3 @@ python-dotenv
 
 ---
 
-
-
-
-
-
-
-<img width="1372" height="712" alt="image" src="https://github.com/user-attachments/assets/534a6915-7fd5-4c72-9605-dc504489158f" />
